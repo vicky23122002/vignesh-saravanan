@@ -28,7 +28,7 @@ export function Hero() {
             UI/UX Designer & Front-End Developer
           </p>
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-            Designing intuitive digital experiences for mobile & web products.
+            Designing intuitive digital experiences for mobile & web products
           </h1>
           <p className="text-lg md:text-xl text-gray-600 mb-12 max-w-2xl leading-relaxed">
             I'm Vignesh Saravanan, a UI/UX Designer at Tata Consultancy Services, crafting user-centric 
